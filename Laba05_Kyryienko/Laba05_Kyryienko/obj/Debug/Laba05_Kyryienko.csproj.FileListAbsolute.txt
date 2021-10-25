@@ -1,0 +1,10 @@
+C:\Users\dariy\source\repos\Laba05_Kyryienko\Laba05_Kyryienko\bin\Debug\Laba05_Kyryienko.exe.config
+C:\Users\dariy\source\repos\Laba05_Kyryienko\Laba05_Kyryienko\bin\Debug\Laba05_Kyryienko.exe
+C:\Users\dariy\source\repos\Laba05_Kyryienko\Laba05_Kyryienko\bin\Debug\Laba05_Kyryienko.pdb
+C:\Users\dariy\source\repos\Laba05_Kyryienko\Laba05_Kyryienko\obj\Debug\Laba05_Kyryienko.Form1.resources
+C:\Users\dariy\source\repos\Laba05_Kyryienko\Laba05_Kyryienko\obj\Debug\Laba05_Kyryienko.Properties.Resources.resources
+C:\Users\dariy\source\repos\Laba05_Kyryienko\Laba05_Kyryienko\obj\Debug\Laba05_Kyryienko.csproj.GenerateResource.cache
+C:\Users\dariy\source\repos\Laba05_Kyryienko\Laba05_Kyryienko\obj\Debug\Laba05_Kyryienko.csproj.CoreCompileInputs.cache
+C:\Users\dariy\source\repos\Laba05_Kyryienko\Laba05_Kyryienko\obj\Debug\Laba05_Kyryienko.exe
+C:\Users\dariy\source\repos\Laba05_Kyryienko\Laba05_Kyryienko\obj\Debug\Laba05_Kyryienko.pdb
+C:\Users\dariy\source\repos\Laba05_Kyryienko\Laba05_Kyryienko\obj\Debug\Laba05_Kyryienko.csproj.AssemblyReference.cache
